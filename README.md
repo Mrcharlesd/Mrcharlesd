@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrcharlesd
 - 👀 I’m interested in ... IT development and security
-- 🌱 I’m currently learning ... Sec+
-- 💞️ I’m looking to collaborate on ... policies procedures and just learning
+- 🌱 I’m currently learning ... Sec+ CEH Splunk
+- 💞️ I’m looking to collaborate on ... policies procedures and just learning; along with project management for IT Security
 - 📫 How to reach me ...mrcharlesdbutler@gmail.com
 
 <!---
